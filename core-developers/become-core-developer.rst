@@ -60,3 +60,6 @@ are granted through these steps:
 .. _Code of Conduct: https://www.python.org/psf/conduct/
 .. _Committers category: https://discuss.python.org/c/committers/5
 .. _Python Discourse: https://discuss.python.org
+
+
+#. lucky made a commint
