@@ -62,4 +62,4 @@ are granted through these steps:
 .. _Python Discourse: https://discuss.python.org
 
 
-#. lucky made a commint
+#. lucky made a comment
